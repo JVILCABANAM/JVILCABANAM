@@ -46,7 +46,7 @@ Siempre estoy aprendiendo algo nuevo.
 
 <div align="center">
   
-  <tr>
+  <table>
     <tr>
       <td align="center" width="33%">
         <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50px"/>
