@@ -1,11 +1,11 @@
 <div align="center">
   
   <!-- Banner Principal -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=José%20Vilcabana&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Programador%20%7C%20Python%20%7C%20Java%20%7C%20PHP&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=José%20Vilcabana&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Programador%20%7C%20Creador%20%7C%20Perú&descAlignY=55&descSize=18"/>
   
   <!-- Frase -->
   <h3>
-    <i>"Creando soluciones, escribiendo código, construyendo el futuro"</i>
+    <i>"Escribo código para resolver problemas, construir soluciones y hacer la vida más fácil"</i>
   </h3>
   
   <!-- Badges de Contacto -->
@@ -24,7 +24,6 @@
   <!-- Badges País -->
   <p>
     <img src="https://img.shields.io/badge/Hecho%20en-Perú-red?style=flat-square&logo=peru&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Status-Programando-2A5298?style=flat-square"/>
     <img src="https://komarev.com/ghpvc/?username=JVILCABANAM&label=Visitas&color=2A5298&style=flat-square"/>
   </p>
   
@@ -32,41 +31,88 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 👋 Hola, soy José
+
+<div align="center">
+  
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="100px"/>
+  
+</div>
+
+Soy un **programador peruano** apasionado por crear cosas útiles con código. Desde pequeño me fascinó cómo las computadoras podían hacer casi cualquier cosa si les dabas las instrucciones correctas. Hoy, años después, sigo sintiendo esa misma emoción cada vez que logro que un programa funcione por primera vez.
+
+No me gusta encasillarme en un solo lenguaje o tecnología. He trabajado con **Python**, **Java**, **PHP**, he tocado **JavaScript**, **HTML** y **CSS**, y siempre estoy aprendiendo algo nuevo. Lo que me importa es **construir soluciones reales**.
+
+Me gustan los desafíos: desde un juego simple por consola en Java hasta un sistema completo de scraping que analiza el mercado laboral en Perú. También he creado **bots**, como el **Titanic Bot**, y sistemas de **atención al cliente**. Porque al final, la tecnología sirve para ayudar a las personas.
+
+Cuando no estoy programando, probablemente estoy leyendo sobre nuevas herramientas, probando APIs, o viendo cómo puedo hacer que algo funcione mejor o más rápido.
+
+---
+
+## 🚀 Algunos proyectos en los que he trabajado
 
 <div align="center">
   
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80px"/>
-        <h3>🇵🇪 Peruano</h3>
-        <p>Apasionado por la tecnología y el código</p>
+      <td align="center" width="50%">
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60px"/>
+        <h3>🕷️ Scraper Laboral Perú</h3>
+        <p>Extrae ofertas de trabajo tecnológicas en Perú y las prepara para análisis</p>
       </td>
-      <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/1995/1995572.png" width="80px"/>
-        <h3>💻 Programador</h3>
-        <p>Especialista en desarrollo de software</p>
+      <td align="center" width="50%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2114/2114284.png" width="60px"/>
+        <h3>🚢 Titanic Bot</h3>
+        <p>Bot interactivo inspirado en el Titanic, con respuestas automáticas</p>
       </td>
-      <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/1907/1907560.png" width="80px"/>
-        <h3>🚀 Soluciones</h3>
-        <p>Creando aplicaciones que resuelven problemas reales</p>
-      </tr>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="60px"/>
+        <h3>💬 Atención al Cliente</h3>
+        <p>Sistema automatizado para gestionar consultas y respuestas rápidas</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2078/2078610.png" width="60px"/>
+        <h3>📊 Reporte de Ventas</h3>
+        <p>Dashboard visual para entender mejor los números de un negocio</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2446/2446032.png" width="60px"/>
+        <h3>🧹 Limpieza de Datos CSV</h3>
+        <p>Procesa y ordena datos desordenados para dejarlos listos para usar</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055686.png" width="60px"/>
+        <h3>🎮 Juego Palabra Secreta</h3>
+        <p>Clásico juego de adivinar la palabra, hecho en Java</p>
+      </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <p>Soy un programador apasionado por el desarrollo de software y la creación de soluciones tecnológicas. 
-  Me encanta aprender nuevas tecnologías y aplicarlas en proyectos que generen impacto. 
-  Actualmente, estoy enfocado en el desarrollo web, scraping de datos y automatización de procesos.</p>
   
 </div>
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 📈 Un vistazo a mi actividad en GitHub
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=JVILCABANAM&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=2A5298&text_color=FFFFFF" width="45%"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVILCABANAM&theme=radical&hide_border=true&background=0D1117&stroke=2A5298&ring=2A5298&fire=2A5298&currStreakLabel=2A5298" width="45%"/>
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVILCABANAM&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298" width="35%"/>
+  
+</div>
+
+---
+
+## 🛠️ Tecnologías con las que trabajo
 
 <div align="center">
   
@@ -112,52 +158,18 @@
 
 ---
 
-## 🚀 Mis Proyectos Destacados
+## 🎯 Lo que viene
 
 <div align="center">
   
   <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="70px"/>
-        <h3>🕷️ Scraper Laboral Perú</h3>
-        <p>Sistema de scraping para ofertas de trabajo tecnológicas en Perú</p>
-        <p><b>Python · SQLite · Power BI</b></p>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://cdn-icons-png.flaticon.com/512/2078/2078610.png" width="70px"/>
-        <h3>📊 Reporte de Ventas</h3>
-        <p>Dashboard interactivo para análisis empresarial</p>
-        <p><b>Power BI · Pandas · Excel</b></p>
-      </td>
+      <td align="center">🔄 <b>Terminar el Titanic Bot</b></td>
+      <td align="center">🔄 <b>Sistema de atención al cliente</b></td>
     </tr>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://cdn-icons-png.flaticon.com/512/2446/2446032.png" width="70px"/>
-        <h3>🧹 Limpieza de Datos CSV</h3>
-        <p>Pipeline ETL completo para datos estructurados</p>
-        <p><b>Python · Pandas · Jupyter</b></p>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055686.png" width="70px"/>
-        <h3>🎮 Juego Palabra Secreta</h3>
-        <p>Juego interactivo por consola en Java</p>
-        <p><b>Java · POO</b></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://cdn-icons-png.flaticon.com/512/2114/2114284.png" width="70px"/>
-        <h3>🚢 Titanic Bot</h3>
-        <p>Bot interactivo con temática del Titanic</p>
-        <p><b>Python · APIs · IA</b></p>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="70px"/>
-        <h3>💬 Atención al Cliente</h3>
-        <p>Sistema automatizado de atención al cliente</p>
-        <p><b>PHP · JavaScript · MySQL</b></p>
-      </td>
+      <td align="center">⏳ <b>API con FastAPI</b></td>
+      <td align="center">⏳ <b>Despliegue con Docker</b></td>
     </tr>
   </table>
   
@@ -165,113 +177,11 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🤝 Hablemos
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=JVILCABANAM&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=2A5298&text_color=FFFFFF" width="48%"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVILCABANAM&theme=radical&hide_border=true&background=0D1117&stroke=2A5298&ring=2A5298&fire=2A5298&currStreakLabel=2A5298" width="48%"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVILCABANAM&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298" width="40%"/>
-  
-</div>
-
----
-
-## 🎯 Lo que me apasiona
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40px"/>
-        <h4>🇵🇪 Mi País</h4>
-        <p>Orgulloso de ser peruano</p>
-      </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/1907/1907560.png" width="40px"/>
-        <h4>💻 Código</h4>
-        <p>Escribir código que transforma ideas en realidad</p>
-      </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="40px"/>
-        <h4>🕷️ Scraping</h4>
-        <p>Extraer datos del mundo real</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2114/2114284.png" width="40px"/>
-        <h4>🤖 Bots</h4>
-        <p>Crear asistentes inteligentes</p>
-      </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40px"/>
-        <h4>🐳 Docker</h4>
-        <p>Contenerizar mis aplicaciones</p>
-      </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px"/>
-        <h4>🔌 APIs</h4>
-        <p>Conectar servicios y plataformas</p>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
-## 📅 Objetivos 2026
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td>✅</td>
-      <td><b>Scraper de empleos Perú</b></td>
-      <td>Completado</td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td><b>Dashboard Power BI</b></td>
-      <td>Completado</td>
-    </tr>
-    <tr>
-      <td>🔄</td>
-      <td><b>Titanic Bot</b></td>
-      <td>En desarrollo</td>
-    </tr>
-    <tr>
-      <td>🔄</td>
-      <td><b>Sistema de Atención al Cliente</b></td>
-      <td>En desarrollo</td>
-    </tr>
-    <tr>
-      <td>⏳</td>
-      <td><b>API con FastAPI</b></td>
-      <td>Planificado</td>
-    </tr>
-    <tr>
-      <td>⏳</td>
-      <td><b>Despliegue con Docker</b></td>
-      <td>Planificado</td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
-## 🤝 ¿Hablamos?
-
-<div align="center">
-  
-  <p>¿Buscas colaborar en algún proyecto? ¿Tienes una idea interesante?</p>
+  <p>Si tienes un proyecto, una idea o simplemente quieres conversar sobre tecnología, escríbeme.</p>
   
   <p>
     <a href="https://github.com/JVILCABANAM">
@@ -293,8 +203,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn"/>
   
-  <b>⭐ ¡Gracias por visitar mi perfil! ⭐</b>
-  <br/>
-  <sub><b>José Vilcabana | Programador | Perú 🇵🇪 | 2026</b></sub>
+  <sub><b>José Vilcabana | Programador | Perú 🇵🇪</b></sub>
   
 </div>
