@@ -1,11 +1,11 @@
 <div align="center">
   
   <!-- Banner Principal -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=José%20Vilcabana&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Programador%20%7C%20Creador%20%7C%20Perú&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=José%20Vilcabana&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Programador%20%7C%20Perú&descAlignY=55&descSize=18"/>
   
   <!-- Frase -->
   <h3>
-    <i>"Escribo código para resolver problemas, construir soluciones y hacer la vida más fácil"</i>
+    <i>"Crear cosas útiles con código"</i>
   </h3>
   
   <!-- Badges de Contacto -->
@@ -21,7 +21,6 @@
     </a>
   </p>
   
-  <!-- Badges País -->
   <p>
     <img src="https://img.shields.io/badge/Hecho%20en-Perú-red?style=flat-square&logo=peru&logoColor=white"/>
     <img src="https://komarev.com/ghpvc/?username=JVILCABANAM&label=Visitas&color=2A5298&style=flat-square"/>
@@ -31,61 +30,49 @@
 
 ---
 
-## 👋 Hola, soy José
+## 👋 Sobre mí
 
 <div align="center">
-  
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="100px"/>
-  
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80px"/>
 </div>
 
-Soy un **programador peruano** apasionado por crear cosas útiles con código. Desde pequeño me fascinó cómo las computadoras podían hacer casi cualquier cosa si les dabas las instrucciones correctas. Hoy, años después, sigo sintiendo esa misma emoción cada vez que logro que un programa funcione por primera vez.
+Soy programador peruano. Me gusta crear cosas útiles con código y enfrentar desafíos: desde juegos simples hasta sistemas completos de scraping y bots. Para mí, la tecnología sirve para ayudar a las personas.
 
-No me gusta encasillarme en un solo lenguaje o tecnología. He trabajado con **Python**, **Java**, **PHP**, he tocado **JavaScript**, **HTML** y **CSS**, y siempre estoy aprendiendo algo nuevo. Lo que me importa es **construir soluciones reales**.
-
-Me gustan los desafíos: desde un juego simple por consola en Java hasta un sistema completo de scraping que analiza el mercado laboral en Perú. También he creado **bots**, como el **Titanic Bot**, y sistemas de **atención al cliente**. Porque al final, la tecnología sirve para ayudar a las personas.
-
-Cuando no estoy programando, probablemente estoy leyendo sobre nuevas herramientas, probando APIs, o viendo cómo puedo hacer que algo funcione mejor o más rápido.
+Siempre estoy aprendiendo algo nuevo.
 
 ---
 
-## 🚀 Proyectos que he creado
+## 🚀 Mis proyectos
 
 <div align="center">
   
-  <table>
+  <tr>
     <tr>
       <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60px"/>
-        <h3>🕷️ Scraper Laboral Perú</h3>
-        <p>Extrae ofertas de trabajo tecnológicas en Perú</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50px"/>
+        <h4>🕷️ Scraper Laboral Perú</h4>
       </td>
       <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/2114/2114284.png" width="60px"/>
-        <h3>🚢 Titanic Bot</h3>
-        <p>Bot interactivo con respuestas automáticas</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/2114/2114284.png" width="50px"/>
+        <h4>🚢 Titanic Bot</h4>
       </td>
       <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="60px"/>
-        <h3>💬 Atención al Cliente</h3>
-        <p>Sistema automatizado de consultas</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="50px"/>
+        <h4>💬 Atención al Cliente</h4>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2078/2078610.png" width="60px"/>
-        <h3>📊 Reporte de Ventas</h3>
-        <p>Dashboard para entender números de negocio</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/2078/2078610.png" width="50px"/>
+        <h4>📊 Reporte de Ventas</h4>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/2446/2446032.png" width="60px"/>
-        <h3>🧹 Limpieza de Datos CSV</h3>
-        <p>Ordena datos desordenados</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/2446/2446032.png" width="50px"/>
+        <h4>🧹 Limpieza de Datos</h4>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055686.png" width="60px"/>
-        <h3>🎮 Juego Palabra Secreta</h3>
-        <p>Clásico juego de adivinar en Java</p>
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055686.png" width="50px"/>
+        <h4>🎮 Juego Palabra Secreta</h4>
       </td>
     </tr>
   </table>
@@ -94,28 +81,22 @@ Cuando no estoy programando, probablemente estoy leyendo sobre nuevas herramient
 
 ---
 
-## 📈 Actividad en GitHub
+## 📊 GitHub
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=JVILCABANAM&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=2A5298&text_color=FFFFFF" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JVILCABANAM&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=2A5298" width="45%"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVILCABANAM&theme=radical&hide_border=true&background=0D1117&stroke=2A5298&ring=2A5298&fire=2A5298&currStreakLabel=2A5298" width="45%"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVILCABANAM&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298" width="35%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVILCABANAM&theme=radical&hide_border=true&background=0D1117&stroke=2A5298&ring=2A5298&fire=2A5298" width="45%"/>
   
 </div>
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tecnologías
 
 <div align="center">
   
-  <!-- Lenguajes -->
-  <h3>📝 Lenguajes</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -123,23 +104,17 @@ Cuando no estoy programando, probablemente estoy leyendo sobre nuevas herramient
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </p>
   
-  <!-- Web -->
-  <h3>🌐 Web</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </p>
   
-  <!-- Bases de Datos -->
-  <h3>💾 Bases de Datos</h3>
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </p>
   
-  <!-- Herramientas -->
-  <h3>🛠️ Herramientas</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -147,8 +122,6 @@ Cuando no estoy programando, probablemente estoy leyendo sobre nuevas herramient
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   </p>
   
-  <!-- IA -->
-  <h3>🤖 IA</h3>
   <p>
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
     <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -159,23 +132,19 @@ Cuando no estoy programando, probablemente estoy leyendo sobre nuevas herramient
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Contacto
 
 <div align="center">
   
-  <p>¿Tienes un proyecto o una idea? Hablemos.</p>
-  
-  <p>
-    <a href="https://github.com/JVILCABANAM">
-      <img src="https://img.shields.io/badge/GitHub-Sígueme-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="mailto:jvilcabana@ejemplo.com">
-      <img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/jose-vilcabana/">
-      <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-  </p>
+  <a href="https://github.com/JVILCABANAM">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:jvilcabana@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jose-vilcabana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   
 </div>
 
@@ -185,6 +154,6 @@ Cuando no estoy programando, probablemente estoy leyendo sobre nuevas herramient
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn"/>
   
-  <sub><b>José Vilcabana | Programador | Perú 🇵🇪</b></sub>
+  <sub><b>José Vilcabana | Perú 🇵🇪</b></sub>
   
 </div>
