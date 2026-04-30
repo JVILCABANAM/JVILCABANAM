@@ -21,8 +21,15 @@ const jose = {
   location  : "Perú 🇵🇪",
   education : "Ingeniería de software con IA",
   role      : "Programador",
-  code      : ["Python", "Node.js", "PHP", "JavaScript"],
-  hobbies   : ["Coding 💻", "Chatbots 🤖", "Web Scraping 🕷️"],
+  code      : [
+    "PHP",         "JavaScript"
+    "Python",      "Node.js",
+  ],
+  hobbies   : [
+    "Coding 💻",
+    "Fútbol ⚽",
+    "Gaming 🎮"
+  ],
   funFact   : "Me gusta entender bien las cosas… y explicarlas 😅"
 };
 ```
