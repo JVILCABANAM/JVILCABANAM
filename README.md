@@ -88,11 +88,8 @@ const jose = {
 
 ---
 
-## 📊 GitHub
 
 <div align="center">
-
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVILCABANAM&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298" width="35%"/>
 
