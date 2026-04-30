@@ -22,7 +22,7 @@ const jose = {
   education : "Ingeniería de software con IA",
   role      : "Programador",
   code      : [
-    "PHP",         "JavaScript"
+    "PHP",         "JavaScript",
     "Python",      "Node.js",
   ],
   hobbies   : [
@@ -95,6 +95,7 @@ const jose = {
 
 ---
 
+## 📊 GitHub
 
 <div align="center">
 
