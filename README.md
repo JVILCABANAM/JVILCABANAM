@@ -92,9 +92,6 @@ const jose = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JVILCABANAM&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=2A5298" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JVILCABANAM&theme=radical&hide_border=true&background=0D1117&stroke=2A5298&ring=2A5298&fire=2A5298" width="45%"/>
-
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVILCABANAM&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298" width="35%"/>
