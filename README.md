@@ -1,34 +1,28 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header"/>
+  <!-- BANNER (cámbialo por tu imagen) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=José%20Vilcabana&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white"/>
+  
+  <!-- FRASE CORTA -->
+  <h3>
+    🇵🇪 Código que resuelve problemas reales
+  </h3>
+  
+  <!-- CONTACTO -->
+  <p>
+    <a href="https://github.com/JVILCABANAM">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:jvilcabana@ejemplo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
   
 </div>
 
-## 👋 Hola, soy José Vilcabana
-
-### Sobre mí
-
-- 🐍 **Programador** · Creo soluciones con código
-- 🤖 **Chatbots** · Atención al cliente y automatización
-- 🕷️ **Web Scraping** · Extracción de datos del mundo real
-- 🧠 **Curioso** · Me gusta entender y explicar
-
 ---
 
-### 🚀 Mis proyectos
-
-| Proyecto | Qué es |
-|----------|--------|
-| 🕷️ **Scraper Laboral Perú** | Extrae ofertas tech en Perú para Power BI |
-| 🤖 **Titanic Bot** | Chatbot interactivo |
-| 💬 **Atención al Cliente** | Sistema automatizado de respuestas |
-| 📊 **Reporte de Ventas** | Dashboard con KPIs dinámicos |
-| 🧹 **Limpieza de Datos** | Pipeline ETL en Python |
-| 🎮 **Juego Palabra Secreta** | Clásico juego en Java |
-
----
-
-### 🛠️ Tecnologías
+## 🛠️ Tecnologías
 
 <div align="center">
   
@@ -47,13 +41,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   
 </div>
 
 ---
 
-### 📊 GitHub
+## 📊 Actividad
 
 <div align="center">
   
@@ -69,28 +62,8 @@
 
 ---
 
-### 🤝 Contacto
-
-<div align="center">
-  
-  <a href="https://github.com/JVILCABANAM">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:jvilcabana@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jose-vilcabana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-</div>
-
----
-
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
-  
-  <sub><b>José Vilcabana | Perú 🇵🇪</b></sub>
   
 </div>
