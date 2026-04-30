@@ -10,6 +10,9 @@
     <a href="mailto:jvilcabana@ejemplo.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
+    <a href="https://www.linkedin.com/in/jose-vilcabana/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
   </p>
   
   <p>
@@ -24,23 +27,63 @@
 ## 👋 Sobre mí
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="60px"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50px"/>
 </div>
 
-> Soy programador y me enfoco en resolver problemas reales.  
-> He desarrollado chatbots para atención al cliente y me interesa todo lo que implique optimizar procesos.  
-> Me gusta ser constante en lo que hago y tengo esa curiosidad de entender bien las cosas… y explicarlas.
-
----
-
-## 🚀 Proyectos
+<br/>
 
 <div align="center">
   
-  | | | |
-  |---|---|---|
-  | 🕷️ **Scraper Laboral Perú** | 🤖 **Titanic Bot** | 💬 **Atención al Cliente** |
-  | 📊 **Reporte de Ventas** | 🧹 **Limpieza de Datos** | 🎮 **Juego Palabra Secreta** |
+  💻 **Programador peruano** · Resuelvo problemas reales con código
+  
+  🤖 He desarrollado **chatbots** para atención al cliente y me apasiona **optimizar procesos**
+  
+  🧠 Constante, curioso y me gusta **entender bien las cosas**… y explicarlas
+  
+</div>
+
+---
+
+## 🚀 Proyectos destacados
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="35px"/>
+        <br/>
+        <b>Scraper Laboral Perú</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2114/2114284.png" width="35px"/>
+        <br/>
+        <b>Titanic Bot</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="35px"/>
+        <br/>
+        <b>Atención al Cliente</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2078/2078610.png" width="35px"/>
+        <br/>
+        <b>Reporte de Ventas</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2446/2446032.png" width="35px"/>
+        <br/>
+        <b>Limpieza de Datos</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055686.png" width="35px"/>
+        <br/>
+        <b>Juego Palabra Secreta</b>
+      </td>
+    </tr>
+  </table>
   
 </div>
 
@@ -50,38 +93,57 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white"/>
+  ### 📝 Lenguajes
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </p>
+  
+  ### 🌐 Frontend
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+  
+  ### 💾 Bases de Datos
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  </p>
+  
+  ### 🛠️ Herramientas
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  </p>
+  
+  ### 🤖 IA
+  <p>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white"/>
+  </p>
   
 </div>
 
 ---
 
-## 📊 GitHub
+## 📊 Actividad
 
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=JVILCABANAM&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=2A5298" width="45%"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVILCABANAM&theme=radical&hide_border=true&background=0D1117&stroke=2A5298&ring=2A5298&fire=2A5298" width="45%"/>
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVILCABANAM&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2A5298" width="35%"/>
   
 </div>
 
